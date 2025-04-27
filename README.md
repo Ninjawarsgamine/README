@@ -2,7 +2,7 @@
 
 Estudiante de DAW (Desarrollo de Aplicaciones Web) - 2º año  
 
-Me gusta el Desarrollo Web y siempre estoy intentando mejorar
+Me gusta el Desarrollo Web y siempre estoy intentando mejorar.
 
 ## 🌐 Contacto  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:robertomr555@gmail.com)
